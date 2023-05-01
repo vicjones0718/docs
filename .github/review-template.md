@@ -1,3 +1,4 @@
+![branching-model-feature-merge](https://github.com/github/docs/assets/132252398/1e2265b1-3091-4543-a4ee-f8b9e7d5bd26)
 ## Author self-review
 
 - [ ] The changes in this PR meet the user experience and goals outlined in the content design plan.
